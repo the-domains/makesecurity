@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.7366474
+color:
+  saturation: 0.5236087
+  brandStrength: 0.7816189
+  lightness: 0.7765599
+  brandColors:
+    - '#FFFFFF'
+    - '#01CF01'
+    - '#0000FD'
+    - '#9C6302'
+    - '#FF8400'
+  rhythmicContrast: 0.5767285
+name: Makesecurity
